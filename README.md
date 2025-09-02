@@ -73,7 +73,6 @@ poetry install
 Create a `.env` file in the project root:
 ```env
 GEMINI_API_KEY=your_gemini_api_key
-GOOGLE_API_KEY=your_google_api_key
 ```
 
 ## 🚀 Usage
@@ -172,3 +171,4 @@ Nikhil Maheshwari
 ---
 
 **Note**: This project is continuously evolving. For the latest updates and features, please check the repository regularly.
+
